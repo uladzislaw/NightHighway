@@ -1,0 +1,49 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl 02_-_Default
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.5
+Pds 1
+Pl 1
+Pccns 1-1
+Prfl 0.4591837131892669
+Pior 1.4500000476837158
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 2 2 2
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd 02_-_Default.png
+
+newmtl Glass
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.6443073153495789 0.619080126285553 0.549913763999939
+Ke 0 0 0
+map_Kd Glass.png
+map_Pm metalnessMap2.png
+map_Pr roughnessMap2.png
+norm normalMap2.png
+
+newmtl HeadLight
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd HeadLight.png

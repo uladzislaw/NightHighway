@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8a1c9d3-b8f2-46d2-92f0-2e319100a02d" name="Default Changelist" comment="initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Diesrespect/CarBridgeGame" />
+      </set>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CigarLight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnerScripts/SpawnedCarChecking.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Queue/CubeSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CarDrive.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GmeSceneManager/GameSceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DestroyAfter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Queue/CarQueueSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CollisionEffects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Queue/PoolObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BubbledCarController/GameOver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BubbledCarController/SpinningWheels.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevCont.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/WheelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnerScripts/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BubbledCarController/SpinningWheels.cs" />
+        <option value="$PROJECT_DIR$/Assets/CollisionEffects.cs" />
+        <option value="$PROJECT_DIR$/Assets/DestroyAfter.cs" />
+        <option value="$PROJECT_DIR$/Packages/com.blockadelabs.sdk/Runtime/SkyboxPreviewPopup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarQueue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Queue/CubeSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Queue/PoolObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Queue/CarQueue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnerScripts/CarSpawnPoints.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnerScripts/SpawnedCarChecking.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnerScripts/SpawnedCarChecking3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnerScripts/SpawnedCarChecking4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Queue/CarQueueSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneManager/SceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BubbledCarController/BubbledCar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CigarLight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BubbledCarController/GameOver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GmeSceneManager/GameSceneManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gp0kbJyNoY2WY2Rdb7g3oIb2yA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../MusorGame\Musora.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\MusorGame" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8a1c9d3-b8f2-46d2-92f0-2e319100a02d" name="Default Changelist" comment="" />
+      <created>1716379392984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716379392984</updated>
+      <workItem from="1716379438232" duration="2131000" />
+      <workItem from="1716650964662" duration="662000" />
+      <workItem from="1716668424268" duration="1755000" />
+      <workItem from="1716986956183" duration="1453000" />
+      <workItem from="1717012720407" duration="1009000" />
+      <workItem from="1717507367828" duration="603000" />
+      <workItem from="1717619821717" duration="599000" />
+      <workItem from="1718021552327" duration="599000" />
+      <workItem from="1718050606409" duration="150000" />
+      <workItem from="1718114206048" duration="876000" />
+      <workItem from="1720091202511" duration="265000" />
+      <workItem from="1720447969824" duration="28000" />
+      <workItem from="1720510201037" duration="282000" />
+      <workItem from="1720603615419" duration="691000" />
+      <workItem from="1720775224095" duration="602000" />
+      <workItem from="1721135189544" duration="583000" />
+      <workItem from="1721211836107" duration="5268000" />
+      <workItem from="1721288664133" duration="1448000" />
+      <workItem from="1721311577046" duration="1354000" />
+      <workItem from="1721383497549" duration="5171000" />
+      <workItem from="1721421011246" duration="3275000" />
+      <workItem from="1721455836651" duration="2134000" />
+      <workItem from="1721470489064" duration="7074000" />
+      <workItem from="1721655761962" duration="599000" />
+      <workItem from="1721734261757" duration="5803000" />
+      <workItem from="1721926998256" duration="2014000" />
+      <workItem from="1721936742571" duration="664000" />
+      <workItem from="1721975097918" duration="2119000" />
+      <workItem from="1721980675678" duration="5175000" />
+      <workItem from="1722159635384" duration="7465000" />
+      <workItem from="1722241419398" duration="2498000" />
+      <workItem from="1722432610279" duration="631000" />
+      <workItem from="1722589093155" duration="718000" />
+      <workItem from="1722688335918" duration="1315000" />
+      <workItem from="1722771864468" duration="3007000" />
+      <workItem from="1723110084752" duration="601000" />
+      <workItem from="1723192578721" duration="3492000" />
+      <workItem from="1723371939576" duration="1793000" />
+      <workItem from="1724580813136" duration="1724000" />
+      <workItem from="1724672494433" duration="503000" />
+      <workItem from="1725880450799" duration="1812000" />
+      <workItem from="1725960822063" duration="6718000" />
+      <workItem from="1726229432601" duration="3157000" />
+      <workItem from="1726255133219" duration="1201000" />
+      <workItem from="1726580238089" duration="599000" />
+      <workItem from="1734254038330" duration="3667000" />
+      <workItem from="1734260179061" duration="465000" />
+      <workItem from="1734262355106" duration="864000" />
+    </task>
+    <task id="LOCAL-00001" summary="My First Project On Git">
+      <created>1722772543526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722772543526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My First Project On Git">
+      <created>1722772597483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722772597483</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="My First Project On Git" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="838" y="421" width="243" height="328" key="Github.ShareDialog" timestamp="1734260615873">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="838" y="421" width="243" height="328" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1734260615873" />
+    <state x="461" y="156" key="SettingsEditor" timestamp="1734263099954">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="156" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1734263099954" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1734256282581">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1734256282581" />
+    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1734258413047">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1734258413047" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Capone's Gangster Cabriolet
+* source:	https://sketchfab.com/3d-models/capones-gangster-cabriolet-a380266e66e9432caf0db8a03094385e
+* author:	Carrozze DÄULARI (https://sketchfab.com/alhertenberger)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Capone's Gangster Cabriolet" (https://sketchfab.com/3d-models/capones-gangster-cabriolet-a380266e66e9432caf0db8a03094385e) by Carrozze DÄULARI (https://sketchfab.com/alhertenberger) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
